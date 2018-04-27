@@ -1,0 +1,152 @@
+#EXTM3U
+
+#EXTINF:-1,Canal 4 (Solo Eventos)
+http://178.162.199.73:8088/live/k7like/playlist.m3u8?id=96410&wowzasessionid=608680643&pk=199d57441dd9ad8047a0d47d23c7998e732510a32b7f4036aae690abfd37bdcb
+#EXTINF:-1,La Liga TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1,Bein 1
+http://www.disfruta.club:8000/live/zqpghjkm/HNXjkzyu1y1/215.ts
+#EXTINF:-1,Bein La Liga
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+#EXTINF:-1,Bein Sport Espana
+http://fortuneiptv.eu:8080/live/KwFrS43ff/0Roc3t5R7g/529.ts
+#EXTINF:-1,Univision Deportes
+http://www.disfruta.club:8000/live/zqpghjkm/HNXjkzyu1y1/259.ts
+#EXTINF:-1,Univision TDN
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_20180313042410.m3u8
+#EXTINF:-1,TDN
+http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/143.ts
+#EXTINF:-1,CDO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+#EXTINF:-1,Fox Sport Argentina
+http://forumz.us/tv/TvDroid_foxsports.php?id=FOX_SPORTS_HD&idd=foxsports
+#EXTINF:-1,Fox Sport 2 Argentina
+http://forumz.us/tv/TvDroid_foxsports2.php?id=FOX_SPORTS2_HD&idd=foxsports2
+#EXTINF:-1,Fox Sport Sur
+http://190.2.138.102:25461/1479/sintonizar.m3u8
+#EXTINF:-1,Fox Sport Premium
+https://live11.userapi.com/637601/live/UccKsdpCkCE/playlist.m3u8
+#EXTINF:-1,TNT SPORT
+https://live11.userapi.com/620008/live/gMeGsT1CfSE/playlist.m3u8
+#EXTINF:-1,Claro Sports
+http://mirandatv.iptvab.tk/clspo-q3.php?mirandatv.m3u8
+#EXTINF:-1,Claro Sports Colombia
+http://mirandatv.iptvab.tk/clspoco-q3.php?mirandatv.m3u8
+#EXTINF:-1,ESPN +
+http://mirandatv.iptvab.tk/espn_plus-q3.php?mirandatv.m3u8
+#EXTINF:-1,ESPN
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/espn.php?index.m3u8
+#EXTINF:-1,ESPN 2
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/espn2.php?index.m3u8
+#EXTINF:-1,ESPN 3
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/espn3.php?index.m3u8
+#EXTINF:-1,Fox Sports AR
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxsports.php?index.m3u8
+#EXTINF:-1,Fox Sports 2 AR
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxsports2.php?index.m3u8
+#EXTINF:-1,Fox Sports 3 AR
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxsports3.php?index.m3u8
+#EXTINF:-1,Fox Sports MX
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxsports_mx.php?index.m3u8
+#EXTINF:-1,Fox Sports 2 MX
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxsports2_mx.php?index.m3u8
+#EXTINF:-1,Fox Sports 3 MX
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxsports3_mx.php?index.m3u8
+#EXTINF:-1,Win Sports
+http://www.iptv.darkiptv.com/appnopor/4regalitonopor4/winsports.php?index.m3u8
+#EXTINF:-1,Univision Deportes
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_20180313042410.m3u8
+#EXTINF:-1,MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,RedBull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,ESPN Deportes
+http://www.disfruta.club:8000/live/zqpghjkm/HNXjkzyu1y1/4157.ts
+#EXTINF:-1,MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,RedBull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,DeporTV | SD
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
+#EXTINF:-1,Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
+#EXTINF:-1,Sevilla FC | SD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
+#EXTINF:-1,Mundo Auto Television | HD
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+#EXTINF:-1,Directv Sport
+http://www.disfruta.club:8000/live/zqpghjkm/HNXjkzyu1y1/7448.ts
+#EXTINF:-1,Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1,NICK
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/nickelodeon.php?index.m3u8
+#EXTINF:-1,NICK 2
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/nick2.php?index.m3u8
+#EXTINF:-1,Discovery Kids
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/discoverykids.php?index.m3u8
+#EXTINF:-1,Disney Channel
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/disney.php?index.m3u8
+#EXTINF:-1,Cartoon Network
+http://www.iptv.darkiptv.com/appnopor/1nopor1/cart_net.php?index.m3u8
+#EXTINF:-1,Disney Jr
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/disneyjr.php?index.m3u8
+#EXTINF:-1,Disney XD
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/disneyxd.php?index.m3u8
+#EXTINF:-1,Tooncast
+http://www.iptv.darkiptv.com/appnopor/4regalitonopor4/tooncast.php?index.m3u8
+#EXTINF:-1,NICK Jr
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/nick_jr.php?index.m3u8
+#EXTINF:-1,Nat Geo Kids
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/natgeo_kids.php?index.m3u8
+#EXTINF:-1,Boomerang
+http://www.iptv.darkiptv.com/appnopor/1nopor1/boomerang.php?index.m3u8
+#EXTINF:-1,Animal Planet
+http://www.iptv.darkiptv.com/appnopor/1nopor1/animalplanet.php?index.m3u8
+#EXTINF:-1,Discovery Channel
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/discoverychannel.php?index.m3u8
+#EXTINF:-1,Discovery Home And Healt
+http://www.iptv.darkiptv.com/droidmovilapp/discoveryhh.php?index.m3u8
+#EXTINF:-1,Discovery Theater
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/discovery_theater.php?index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/discoveryturbo.php?index.m3u8
+#EXTINF:-1,Discovery Civilitation
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/discoverycivil.php?index.m3u8
+#EXTINF:-1,History
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/history.php?index.m3u8
+#EXTINF:-1,Investigation Discovery
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/id.php?index.m3u8
+#EXTINF:-1,National Geografic
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/natgeo_mx.php?index.m3u8
+#EXTINF:-1,TLC
+http://www.iptv.darkiptv.com/appnopor/4regalitonopor4/tlc.php?index.m3u8
+#EXTINF:-1,Tru TV
+http://mirandatv.iptvab.tk/trutv_hd-q3.php?mirandatv.m3u8
+#EXTINF:-1,A&E
+http://mirandatv.iptvab.tk/aehd-q3.php?mirandatv.m3u8
+#EXTINF:-1,tbs
+http://www.iptv.darkiptv.com/droidmovilapp/tbs.php?index.m3u8
+#EXTINF:-1,E Entreteiment
+http://mirandatv.iptvab.tk/e_ent-q4.php?mirandatv.m3u8
+#EXTINF:-1,Glitz
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/glitz.php?index.m3u8
+#EXTINF:-1,Unicable
+http://www.iptv.darkiptv.com/appnopor/4regalitonopor4/unicable.php?index.m3u8
+#EXTINF:-1,Telemundo Internacional
+http://www.iptv.darkiptv.com/appnopor/4regalitonopor4/telemundo_int.php?index.m3u8
+#EXTINF:-1,AXN
+http://mirandatv.iptvab.tk/axn-q3.php?mirandatv.m3u8
+#EXTINF:-1,AMC
+http://mirandatv.iptvab.tk/amc-q3.php?mirandatv.m3u8
+#EXTINF:-1,Cinemax
+http://mirandatv.iptvab.tk/c1nemax-q4.php?mirandatv.m3u8
+#EXTINF:-1,Cine Canal
+http://mirandatv.iptvab.tk/cinecanal-q3.php?mirandatv.m3u8
+#EXTINF:-1,De Pelicula
+http://mirandatv.iptvab.tk/depelicula-q4.php?mirandatv.m3u8
+#EXTINF:-1,Paramount Channel
+http://mirandatv.iptvab.tk/param-q3.php?mirandatv.m3u8
+#EXTINF:-1,Space
+http://mirandatv.iptvab.tk/space-q3.php?mirandatv.m3u8
+#EXTINF:-1,TNT
+http://mirandatv.iptvab.tk/tnt-q3.php?mirandatv.m3u8
