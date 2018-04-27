@@ -18,22 +18,6 @@ https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_2018031304241
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/143.ts
 #EXTINF:-1,CDO
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
-#EXTINF:-1,Fox Sport Argentina
-http://forumz.us/tv/TvDroid_foxsports.php?id=FOX_SPORTS_HD&idd=foxsports
-#EXTINF:-1,Fox Sport 2 Argentina
-http://forumz.us/tv/TvDroid_foxsports2.php?id=FOX_SPORTS2_HD&idd=foxsports2
-#EXTINF:-1,Fox Sport Sur
-http://190.2.138.102:25461/1479/sintonizar.m3u8
-#EXTINF:-1,Fox Sport Premium
-https://live11.userapi.com/637601/live/UccKsdpCkCE/playlist.m3u8
-#EXTINF:-1,TNT SPORT
-https://live11.userapi.com/620008/live/gMeGsT1CfSE/playlist.m3u8
-#EXTINF:-1,Claro Sports
-http://mirandatv.iptvab.tk/clspo-q3.php?mirandatv.m3u8
-#EXTINF:-1,Claro Sports Colombia
-http://mirandatv.iptvab.tk/clspoco-q3.php?mirandatv.m3u8
-#EXTINF:-1,ESPN +
-http://mirandatv.iptvab.tk/espn_plus-q3.php?mirandatv.m3u8
 #EXTINF:-1,ESPN
 http://www.iptv.darkiptv.com/appnopor/2jajanopor2/espn.php?index.m3u8
 #EXTINF:-1,ESPN 2
@@ -41,17 +25,17 @@ http://www.iptv.darkiptv.com/appnopor/2jajanopor2/espn2.php?index.m3u8
 #EXTINF:-1,ESPN 3
 http://www.iptv.darkiptv.com/appnopor/2jajanopor2/espn3.php?index.m3u8
 #EXTINF:-1,Fox Sports AR
-http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxsports.php?index.m3u8
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2002.ts
 #EXTINF:-1,Fox Sports 2 AR
-http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxsports2.php?index.m3u8
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2001.ts
 #EXTINF:-1,Fox Sports 3 AR
-http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxsports3.php?index.m3u8
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2000.ts
 #EXTINF:-1,Fox Sports MX
-http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxsports_mx.php?index.m3u8
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/57.ts
 #EXTINF:-1,Fox Sports 2 MX
-http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxsports2_mx.php?index.m3u8
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/58.ts
 #EXTINF:-1,Fox Sports 3 MX
-http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxsports3_mx.php?index.m3u8
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2021.ts
 #EXTINF:-1,Win Sports
 http://www.iptv.darkiptv.com/appnopor/4regalitonopor4/winsports.php?index.m3u8
 #EXTINF:-1,Univision Deportes
