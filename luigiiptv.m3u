@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Tigo Sport (Solo Eventos)
-http://p05.quest123.top:8088/live/moremore/playlist.m3u8?id=97709&wowzasessionid=3007308446&pk=4b78ef43d4be59e07ac09853791f84382e4c495f149c2e1f189ff48e61f38428
-#EXTINF:-1,Canal 4 (Solo Eventos)
-http://p24.quest123.top:8088/live/k7like/playlist.m3u8?id=96410&wowzasessionid=495126390&pk=c174b693f723b2158155ac0e7c2d9fcf669cd24ebca967c67e5b43b03e64e92e
 #EXTINF:-1,La Liga TV
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/161.ts
 #EXTINF:-1,Bein 1
