@@ -3,19 +3,17 @@
 #EXTINF:-1,Canal 4 (Solo Eventos)
 http://178.162.199.73:8088/live/k7like/playlist.m3u8?id=96410&wowzasessionid=608680643&pk=199d57441dd9ad8047a0d47d23c7998e732510a32b7f4036aae690abfd37bdcb
 #EXTINF:-1,La Liga TV
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+http://playlist.onlybest.tv/en/channel/31a2e92dab55b07bd1d2934767159d3a/581/index.m3u8
 #EXTINF:-1,Bein 1
 http://www.disfruta.club:8000/live/zqpghjkm/HNXjkzyu1y1/215.ts
 #EXTINF:-1,Bein La Liga
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 #EXTINF:-1,Bein La Liga Opcion 2
 https://tinyurl.com/y7e5e7wk/36.ts
-#EXTINF:-1,Bein Sport Espana
-http://fortuneiptv.eu:8080/live/KwFrS43ff/0Roc3t5R7g/529.ts
+#EXTINF:-1,Movistar Futbol
+http://playlist.onlybest.tv/en/channel/31a2e92dab55b07bd1d2934767159d3a/575/index.m3u8
 #EXTINF:-1,Univision Deportes
 http://www.disfruta.club:8000/live/zqpghjkm/HNXjkzyu1y1/259.ts
-#EXTINF:-1,Univision TDN
-https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_20180313042410.m3u8
 #EXTINF:-1,TDN
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/143.ts
 #EXTINF:-1,CDO
@@ -127,7 +125,7 @@ http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/21.ts
 #EXTINF:-1,tbs
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/37.ts
 #EXTINF:-1,E!
-http://mirandatv.iptvab.tk/e_ent-q4.php?mirandatv.m3u8
+http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/27.ts
 #EXTINF:-1,Glitz
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/34.ts
 #EXTINF:-1,Unicable
@@ -135,7 +133,7 @@ http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/24.ts
 #EXTINF:-1,Telemundo Internacional
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/147.ts
 #EXTINF:-1,AXN
-http://mirandatv.iptvab.tk/axn-q3.php?mirandatv.m3u8
+http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/152.ts
 #EXTINF:-1,HBO
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/123.ts
 #EXTINF:-1,HBO 2
@@ -145,9 +143,9 @@ http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/126.ts
 #EXTINF:-1,HBO Family
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/124.ts
 #EXTINF:-1,AMC
-http://mirandatv.iptvab.tk/amc-q3.php?mirandatv.m3u8
+http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/75.ts
 #EXTINF:-1,Cinemax
-http://mirandatv.iptvab.tk/c1nemax-q4.php?mirandatv.m3u8
+http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/78.ts
 #EXTINF:-1,Cine Canal
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/77.ts
 #EXTINF:-1,De Pelicula
