@@ -1,9 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,La Liga TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
 #EXTINF:-1,Bein Sport Ñ
-http://micine.club:25461/live/gato-futboljniwbiw/63b0xdr9t5h2g6ws2d985/149.m3u8
+http://micine.club:25461/live/gato-futboljniwbiw/63b0xdr9t5h2gghfgbc/149.m3u8
 #EXTINF:-1,Bein Sport Ñ Opcion 2
-http://190.2.138.102:25461/1469/sintonizar.m3u8
+http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/144.ts
 #EXTINF:-1,Bein 1
 http://www.disfruta.club:8000/live/zqpghjkm/HNXjkzyu1y1/215.ts
 #EXTINF:-1,Bein La Liga
@@ -95,7 +97,7 @@ http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/51.ts
 #EXTINF:-1,NICK Jr
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/42.ts
 #EXTINF:-1,Nat Geo Kids
-http://www.iptv.darkiptv.com/appnopor/3siguenopor3/natgeo_kids.php?index.m3u8
+http://micine.club:25461/live/gato-infantilbeibiued/m9n6bt858h5g12h963001/79.m3u8
 #EXTINF:-1,Boomerang
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/49.ts
 #EXTINF:-1,Animal Planet
