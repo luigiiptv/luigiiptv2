@@ -54,16 +54,8 @@ http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/127.ts
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/4675.ts
 #EXTINF:-1,Gol TV
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/260.ts
-#EXTINF:-1,MLB
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1,RedBull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1,ESPN Deportes
 http://www.disfruta.club:8000/live/zqpghjkm/HNXjkzyu1y1/4157.ts
-#EXTINF:-1,MLB
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1,RedBull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1,DeporTV | SD
 https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
 #EXTINF:-1,Real Madrid TV | SD
