@@ -1,9 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,La Liga TV
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
-#EXTINF:-1,La Liga TV Opcion 2 
-http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/581/index.m3u8
+http://playlist.onlybest.tv/en/channel/947e483d7e74e123815a06b73fe39ec9/581/index.m3u8
 #EXTINF:-1,Bein Sport Ñ
 http://fullpremiumvip.com:8000/live/test10/test10/7453.m3u8
 #EXTINF:-1,Bein Sport Ñ Opcion 2
@@ -13,11 +11,13 @@ http://www.disfruta.club:8000/live/zqpghjkm/HNXjkzyu1y1/215.ts
 #EXTINF:-1,Bein La Liga
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/264.ts
 #EXTINF:-1,Bein La Liga Opcion 2
-http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/574/index.m3u8
-#EXTINF:-1,Bein La Liga Opcion 3
-http://pe02.quest123.top:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=706014151&pk=ce66859cc48b09ac8ff89ce3d3aef935c0e9d8eacdc12ee3e961a6e75d4410f9
+http://playlist.onlybest.tv/en/channel/947e483d7e74e123815a06b73fe39ec9/574/index.m3u8
 #EXTINF:-1,Movistar Futbol
-http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/575/index.m3u8
+http://playlist.onlybest.tv/en/channel/947e483d7e74e123815a06b73fe39ec9/575/index.m3u8
+#EXTINF:-1,Sky Sport 1
+http://playlist.onlybest.tv/en/channel/947e483d7e74e123815a06b73fe39ec9/724/index.m3u8
+#EXTINF:-1,Fight Box
+http://playlist.onlybest.tv/en/channel/947e483d7e74e123815a06b73fe39ec9/900/index.m3u8
 #EXTINF:-1,Univision Deportes
 http://www.disfruta.club:8000/live/zqpghjkm/HNXjkzyu1y1/259.ts
 #EXTINF:-1,TDN
@@ -32,8 +32,6 @@ http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/89.ts
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/90.ts
 #EXTINF:-1,ESPN 3
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/86.ts
-#EXTINF:-1,ESPN AR
-http://101.mipsplayer.net:8088/adfree/espnhgg/playlist.m3u8?id=268408&wowzasessionid=327911943&pk=ce66859cc48b09ac8ff89ce3d3aef935c0e9d8eacdc12ee3e961a6e75d4410f9
 #EXTINF:-1,TNT Sports
 http://iptvelsalvadorpremiun.online:8000/live/zqpghjkm/HNXjkzyu1y1/3213.ts
 #EXTINF:-1,Fox Sports Deportes
